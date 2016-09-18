@@ -12,6 +12,12 @@ https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards
 $ curl https://raw.githubusercontent.com/miya0001/install-wordpress-coding-standards/master/run.sh | bash
 ```
 
+Add following into `~/.bash_profile`.
+
+```
+export PATH=$HOME/.composer/vendor/bin:$PATH
+```
+
 ## How to use
 
 ```
