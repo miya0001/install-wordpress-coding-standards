@@ -1,4 +1,6 @@
-# Installer of the WordPress coding standards
+# Installer of the PHP_CodeSniffer with the WordPress coding standards
+
+https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards
 
 ## Requires
 
